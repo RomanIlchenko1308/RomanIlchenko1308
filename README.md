@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Roman
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Highly motivated Software Engineer with 3+ years of experience. Passioned about Data Visualization and Analysis, GUI and Web application development, especially with 3D technologies using Python, C++, JavaScript. 
 Strong Mechanical Engineer with 5+ years of experience.
