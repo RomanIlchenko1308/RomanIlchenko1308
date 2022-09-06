@@ -4,14 +4,14 @@ Highly motivated Software Engineer with 3+ years of experience.
 Passioned about Data Visualization and Analysis, GUI and Web application development, especially with 3D technologies using Python, C++, JavaScript. 
 Strong Mechanical Engineer with 5+ years of experience.
 
-## :handshake: Contact with me!
+## Contact with me!
 <div>
   <a href="https://www.linkedin.com/in/romanilichenko/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
 
-## :man_technologist: Software languages
+## Software languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -20,7 +20,7 @@ Strong Mechanical Engineer with 5+ years of experience.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
 </div>
 
-## ⚡ GitHub statistics
+## GitHub statistics
 <div align=center>
   <div align=center>
       <img width=49.5% src="https://github-readme-stats.vercel.app/api?username=RomanIlchenko1308&show_icons=true&count_private=true&theme=slateorange&include_all_commits=true&hide_border=true"/>
