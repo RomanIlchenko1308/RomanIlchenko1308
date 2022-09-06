@@ -22,8 +22,8 @@ Strong Mechanical Engineer with 5+ years of experience.
 
 ## GitHub statistics
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=RomanIlchenko1308&show_icons=true&count_private=true&theme=slateorange&include_all_commits=true&hide_border=true"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=RomanIlchenko1308&theme=slateorange&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RomanIlchenko1308&show_icons=true&count_private=true&theme=slateorange&include_all_commits=true&hide_border=true" width="75%"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=RomanIlchenko1308&theme=slateorange&hide_border=false"  width="75%"/>
 </div>
 <div>
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=RomanIlchenko1308&count_private=true&theme=one-dark&bg_color=20232a&hide_border=true" width="99%"/>
