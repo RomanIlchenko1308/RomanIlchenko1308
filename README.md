@@ -35,6 +35,7 @@ Strong Mechanical Engineer with 5+ years of experience.
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Scikit_learn.svg" title="Scikit_learn" alt="Scikit_learn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/pytorch.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/threejs.svg" title="threejs" alt="threejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/vtk.svg" title="vtk" alt="vtk" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/docker.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/kubernetes.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/git.svg" title="Git" **alt="Git" width="40" height="40"/>
