@@ -41,6 +41,8 @@ Strong Mechanical Engineer with 5+ years of experience.
 <div>
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/docker.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/kubernetes.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/sql-database.svg" title="sql-database"  alt="sql-database" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/mysql.svg" title="mysql"  alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/git.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/github.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/gitkraken.svg" title="gitkraken" \*\*alt="gitkraken" width="40" height="40"/>
