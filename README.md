@@ -60,6 +60,6 @@ Strong Mechanical Engineer with 5+ years of experience.
       <img width=49.5% src="http://github-readme-streak-stats.herokuapp.com?user=RomanIlchenko1308&theme=slateorange&hide_border=false"/>
   </div>
   <div>
-    <img align="center" width=99.3% src="https://activity-graph.herokuapp.com/graph?username=RomanIlchenko1308&count_private=true&theme=one-dark&bg_color=20232a&hide_border=true"/>
+    <img align="center" width=99.3% src="https://github-readme-activity-graph.cyclic.app/graph?username=RomanIlchenko1308&count_private=true&theme=one-dark&bg_color=20232a&hide_border=true"/>
   </div>
 </div>
