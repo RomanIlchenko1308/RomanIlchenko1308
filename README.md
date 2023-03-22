@@ -47,7 +47,11 @@ Strong Mechanical Engineer with 5+ years of experience.
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/git.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/github.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/gitkraken.svg" title="gitkraken" \*\*alt="gitkraken" width="40" height="40"/>
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/vscode.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+</div>
+
+## IDE
+<div>
+    <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/vscode.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/visualstudio.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/pycharm.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
