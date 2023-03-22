@@ -15,8 +15,7 @@ Strong Mechanical Engineer with 5+ years of experience.
 ## Software languages
 
 <div>
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/C_programming.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<div>
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/C_programming.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/Cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
