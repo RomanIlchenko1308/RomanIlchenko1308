@@ -1,8 +1,14 @@
 # Hi there 👋, I'm Roman
 
-Highly motivated Software Engineer with 3+ years of experience.
-Passioned about Data Visualization and Analysis, GUI and Web application development, especially with 3D technologies using Python, C++, JavaScript.
-Strong Mechanical Engineer with 5+ years of experience.
+As a Mechanical Engineer with 5+ years of experience in the design and manufacturing of automotive components, I am passionate about leveraging my skills in data visualization and web development to optimize the performance of complex mechanical systems. 
+
+I have 3+ years of experience using Python, C++, and JavaScript to develop GUI and web applications, and I am committed to ongoing learning and development. 
+
+My achievements include leading a team of engineers in the successful completion of a major project and receiving recognition for my contributions to product innovation. 
+
+As Benjamin Franklin once said, "An investment in knowledge pays the best interest," and I believe that continued learning and growth are key to success in any field. 
+
+I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I bring a disciplined and focused approach to all of my work.
 
 ## Contact with me!
 
