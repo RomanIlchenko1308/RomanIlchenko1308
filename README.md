@@ -2,7 +2,7 @@
 
 As a Mechanical Engineer with 5+ years of experience in the design and manufacturing of automotive components, I am passionate about leveraging my skills in data visualization and web development to optimize the performance of complex mechanical systems. 
 
-I have 3+ years of experience using Python, C++, and JavaScript to develop GUI and web applications, and I am committed to ongoing learning and development. 
+I have 3+ years of experience using Python, C, C++, and JavaScript to develop GUI and web applications, and I am committed to ongoing learning and development. 
 
 My achievements include leading a team of engineers in the successful completion of a major project and receiving recognition for my contributions to product innovation. 
 
