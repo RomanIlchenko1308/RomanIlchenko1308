@@ -37,15 +37,15 @@ I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I b
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/NumPy.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Pandas.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/MatplotLib.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Seaborn.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Plotly.svg" title="plot_ly" alt="plot_ly" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Threejs.svg" title="threejs" alt="threejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/VTK.svg" title="vtk" alt="vtk" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/MatplotLib.svg" title="MatplotLib" alt="MatplotLib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Seaborn.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Plotly.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Threejs.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/VTK.svg" title="VTK" alt="VTK" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/PyVista.svg" title="PyVista" alt="PyVista" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Scikit_Learn.svg" title="Scikit_learn" alt="Scikit_learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/PyTorch.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Scikit_Learn.svg" title="Scikit_Learn" alt="Scikit_Learn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/PyTorch.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 <div>
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Docker.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
@@ -53,27 +53,27 @@ I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I b
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/AWS.svg" title="AWS"  alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/AWS_S3.svg" title="AWS_S3"  alt="AWS_S3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/AWS_DynamoDB.svg" title="AWS_DynamoDB"  alt="AWS_DynamoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/SQL.svg" title="sql-database"  alt="sql-database" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/SQLite.svg" title="mysql"  alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/MySQL.svg" title="mysql"  alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/PostgreSQL.svg" title="mysql"  alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/MariaDB.svg" title="mysql"  alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/MongoDB.svg" title="mysql"  alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/SQL.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/SQLite.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/MySQL.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/PostgreSQL.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/MariaDB.svg" title="MariaDB"  alt="MariaDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/MongoDB.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Git.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/GitHub.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/GitLab.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/GitKraken.svg" title="gitkraken" \*\*alt="gitkraken" width="40" height="40"/>
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Bitbucket.svg" title="gitkraken" \*\*alt="gitkraken" width="40" height="40"/>
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Jira.svg" title="gitkraken" \*\*alt="gitkraken" width="40" height="40"/>
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/GitLab.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/GitKraken.svg" title="GitKraken" \*\*alt="GitKraken" width="40" height="40"/>
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Bitbucket.svg" title="Bitbucket" \*\*alt="Bitbucket" width="40" height="40"/>
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Jira.svg" title="Jira" \*\*alt="Jira" width="40" height="40"/>
 </div>
 
 ## IDEs
 
 <div>
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/VSCode.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Visual_Studio.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/PyCharm.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Visual_Studio.svg" title="Visual_Studio" alt="Visual_Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/PyCharm.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 </div>
 
