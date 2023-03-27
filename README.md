@@ -75,7 +75,6 @@ I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I b
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/VSCode.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Visual_Studio.svg" title="Visual_Studio" alt="Visual_Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/PyCharm.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 </div>
 
 ## GitHub statistics
