@@ -1,13 +1,14 @@
 # Hi there 👋, I'm Roman
 
-As a Mechanical Engineer with 5+ years of experience in the design and manufacturing of automotive components, I am passionate about leveraging my skills in data visualization and web development to optimize the performance of complex mechanical systems.
+As an engineer with a passion for both Mechanical and Software Engineering, I bring a unique combination of skills to the table.
 
-I have 3+ years of experience using Python and JavaScript to develop GUI and web applications for data analysis and visualization.
-I also have experience using C and C++ to speed up FEA simulations and optimize the performance of mechanical systems.
+As a Mechanical Engineer with 5+ years of experience in the design and manufacturing of automotive components, I am passionate about leveraging my skills in data visualization and web development to optimize the performance of complex mechanical systems. 
 
-My achievements include leading a team of engineers in the successful completion of a major project and receiving recognition for my contributions to product innovation.
+I have 3+ years of experience using Python and JavaScript to develop GUI and web applications for data analysis and visualization. I also have experience using C and C++ to speed up FEA simulations and optimize the performance of mechanical systems.
 
-As Benjamin Franklin once said, "An investment in knowledge pays the best interest," and I believe that continued learning and growth are key to success in any field.
+My achievements include leading a team of engineers in the successful completion of a major project and receiving recognition for my contributions to product innovation. 
+
+As Benjamin Franklin once said, "An investment in knowledge pays the best interest," and I believe that continued learning and growth are key to success in any field. 
 
 I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I bring a disciplined and focused approach to all of my work.
 
