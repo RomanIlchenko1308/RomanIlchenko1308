@@ -89,6 +89,6 @@ I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I b
       <img width=49.9% src="http://github-readme-streak-stats.herokuapp.com?user=RomanIlchenko1308&theme=slateorange&hide_border=false&bg_colo=36393F"/>
   </div>
   <div>
-    <img align="center" width=97.3% src="https://github-readme-activity-graph.cyclic.app/graph?username=RomanIlchenko1308&count_private=true&theme=one-dark&hide_border=true&radius=5&bg_color=36393F"/>
+    <img align="center" width=97.3% src="https://github-readme-activity-graph.vercel.app/graph?username=RomanIlchenko1308&count_private=true&theme=one-dark&hide_border=true&radius=5&bg_color=36393F"/>
   </div>
 </div>
