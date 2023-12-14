@@ -37,6 +37,7 @@ I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I b
   <!--  -->
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/FastAPI.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/React.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/NumPy.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
