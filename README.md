@@ -51,7 +51,7 @@ I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I b
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/PyTorch.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/webassembly" title="WebAssembly"  alt="WebAssembly" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/webassembly.svg" title="WebAssembly"  alt="WebAssembly" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Docker.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Kubernetes.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareTools/Rest_API.svg" title="Rest_API"  alt="Rest_API" width="40" height="40"/>&nbsp;
