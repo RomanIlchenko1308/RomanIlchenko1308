@@ -2,9 +2,9 @@
 
 As an engineer with a passion for both Mechanical and Software Engineering, I bring a unique combination of skills to the table.
 
-As a Mechanical Engineer with 5+ years of experience in the design and manufacturing of automotive components, I am passionate about leveraging my skills in data visualization and web development to optimize the performance of complex mechanical systems. 
+As a Mechanical Engineer with 6+ years of experience in the design and manufacturing of automotive components, I am passionate about leveraging my skills in data visualization and web development to optimize the performance of complex mechanical systems. 
 
-I have 3+ years of experience using Python and JavaScript to develop GUI and web applications for data analysis and visualization. I also have experience using C and C++ to speed up FEA simulations and optimize the performance of mechanical systems.
+I have 5+ years of experience using Python and JavaScript to develop GUI and web applications for data analysis and visualization. I also have experience using C and C++ to speed up FEA simulations and optimize the performance of mechanical systems.
 
 My achievements include leading a team of engineers in the successful completion of a major project and receiving recognition for my contributions to product innovation. 
 
