@@ -1,16 +1,34 @@
 # Hi there 👋, I'm Roman
 
-As an engineer with a passion for both Mechanical and Software Engineering, I bring a unique combination of skills to the table.
+Senior Simulation & Software Engineer with 6+ years of experience at the intersection of multi-physics CAE, mechanical engineering, and scalable software architecture. I design and build intelligent simulation ecosystems—from high-fidelity CFD/FEA modeling to cloud-native automation platforms and ML-enhanced engineering workflows.
 
-As a Mechanical Engineer with 6+ years of experience in the design and manufacturing of automotive components, I am passionate about leveraging my skills in data visualization and web development to optimize the performance of complex mechanical systems. 
+I specialize in transforming complex mechanical, fatigue/creep, and thermal-fluid problems into automated, data-driven, and AI-ready simulation pipelines — bridging physics-based modeling with production-grade software.
 
-I have 5+ years of experience using Python and JavaScript to develop GUI and web applications for data analysis and visualization. I also have experience using C++ to speed up FEA simulations and optimize the performance of mechanical systems.
+🔬 Multi-Physics Simulation & Mechanical Engineering
 
-My achievements include leading a team of engineers in the successful completion of a major project and receiving recognition for my contributions to product innovation. 
+CFD, FEA, thermo-mechanical coupling, fatigue, nonlinear analysis, and V&V across nuclear, motorcycle, railway, geomechanics, and industrial sectors. Advanced user of ANSYS (Fluent, Workbench, APDL, Macros, PyAnsys API), Abaqus (CAD/CAE & Python API), Altair (HyperMesh/SimSolid/Inspire), NX Siemens, CATIA, SolidWorks, and PTC Creo/Windchill PLM. Built complete end-to-end CFD/CAE pipelines—CAD preparation, meshing, solver optimization, post-processing, and V&V. Reduced engineering processing time by 80%+ through scripting and API automation.
 
-As Benjamin Franklin once said, "An investment in knowledge pays the best interest," and I believe that continued learning and growth are key to success in any field. 
+⚙️ CFD/CAE Automation & Scientific Software Engineering
 
-I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I bring a disciplined and focused approach to all of my work.
+Python/JavaScript/C++/Fortran/VBA engineering tools for simulation acceleration, pre-processing CAD modeling, post-processing like stress linearization, parametric studies, and DOE (Latin Hypercube). 
+
+Stack: PyMAPDL · Abaqus API · SolidWorks API · CATIA/VBA · REST API · NumPy · Pandas · Matplotlib · SciPy · Dash/Streamlit · PyVista · VTK · Docker
+
+I engineer simulation systems — not just run analyses.
+
+💻 Full-Stack Engineer & Software Engineer & Cloud Engineering
+
+Python (FastAPI, Django) · React/TypeScript · PostgreSQL · Redis · Celery · Docker · Azure · Terraform/Pulumi. Microservices with RBAC, CI/CD pipelines (98% unit test coverage), and IaC for large-scale engineering ops. Built web-based CFD/CAE dashboards with Material UI and 3D visualization tools (Three.js, PyVista, Plotly) integrating CAD/CAE/PLM environments.
+
+🤖 AI/ML/DL for Engineering Systems
+
+TensorFlow & PyTorch for CAE model optimization · ML-ready dataset generation from CFD/FEA · surrogate modeling via DOE & LHS · GPU-accelerated processing (cuDF) · analytics pipelines for simulation-driven design decisions.
+
+Thriving where advanced mechanics meets intelligent software — Simulation Software Engineering, CAE R&D, AI for Engineering, and digital engineering platforms across Europe.
+
+📍Barcelona-based · Open to international & remote opportunities
+
+🗣English (C1) · Spanish (C1) · Ukrainian (C2) · Russian (C2)  · German (A1) 
 
 ## Contact with me!
 
